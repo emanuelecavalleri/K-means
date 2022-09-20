@@ -8,3 +8,5 @@ We created a Python script that implements a version of K-means based on lists a
     src="https://miro.medium.com/max/1200/1*TmvsQ4XaOxeb-TmKk1qgOw.png#center"
   >
 </p>
+
+The notebook can be viewed at https://nbviewer.org/github/emanuelecavalleri/K-means/blob/main/K-means.ipynb.
